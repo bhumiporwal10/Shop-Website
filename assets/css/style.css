@@ -1,0 +1,60 @@
+body{
+font-family: sans-serif !important;
+}
+
+.top-menu-link{
+color:white;
+font-weight: 300;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+.top-menu-link:hover{
+color: white;
+}
+
+nav.navbar .navbar-expand-md .bg-theme-color{
+	background: #1b81a4 !important;
+
+}
+
+button.contact-btn{
+	width: 200px;
+	height: 50px;
+	background-color:#fff ;
+	border: none;
+	font-size: 20px;
+	text-transform: capitalize;
+	background: linear-gradient(to left hotpink,transparent,#fff);
+}
+
+button.contact-btn:hover{
+	background: linear-gradient(90deg,#fff,darkblue);
+}
+
+img.slider-hight{
+	height: 900px;
+	object-fit: cover;
+}
+
+
+h2.title{
+	text-align: center;
+	font-weight: 600;
+	color: brown;
+}
+
+.description{
+	text-align:center;
+	font-size:20px;
+
+}
+
+.footer{
+	background: blue;
+	height: 400px;
+}
+
+.footer-content{
+	margin-top: 50px;
+}
